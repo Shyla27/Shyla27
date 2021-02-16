@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Shyla27/Shyla27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I'm Sheila Bernice , but you can just call me Shyee.
+    I am an Android & Web  Developer, residing in Kirinyaga County. 
+Ever since i was a kid i have been a tireless seeker of knowledge.  Also,  fun fact am an Aries, and you know what they say about us,
+    Once  determined to do something, nothing will stop an Aries. 
+    My journey as a Developer began not so long ago when i joined Moringa School. 
+    Everyday of code during my first days felt like a bad decision  but then with time it got easier to understand and easy to implement.
+    
+    
+ ##### 🔭 I’m currently working on  Web Design & Development as a Freelancer 
 
-Here are some ideas to get you started:
+ ##### 🌱 I’m currently learning  Php/ Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##### ⚡ Fun fact: I love Skating and Hiking 
